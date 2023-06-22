@@ -602,8 +602,12 @@ progress {
   max-width: 100%;
   height: auto;
 }
+
 .img-1 {
-  height:105%;
+  height: 550px;  
+}
+.img-2 {
+  height: 300px;
 }
 
 .img-thumbnail {
@@ -3153,6 +3157,10 @@ textarea.form-control-lg {
   --bs-btn-padding-x: 0.5rem;
   --bs-btn-font-size: 0.875rem;
   --bs-btn-border-radius: 0.25rem;
+}
+.img-insta{
+  display: flex;
+  width: 100%;
 }
 
 .fade {
